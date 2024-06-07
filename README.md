@@ -16,8 +16,7 @@ src="https://static.wikia.nocookie.net/among-us-wiki/images/4/43/Orange.png/revi
 > -  🧑🏻‍💻 Student at [KMUTT](https://www.kmutt.ac.th/en) 
 > -  🦉 Night owl 🐱 Cat person, 🎸 Hobbyist Musician, 🎤 MC, 🗿 Memer
 > -  🔎 Googling `📝 How to do academic research` 
-> -  📚 Reading  `📊 Data Analytics` / `
-> 🧠 Semantic Web Technology` / `🤖 Machine Learning`
+> -  📚 Reading   ` 🧠 Semantic Web Technology` / `🤖 Machine Learning`
 
 > [!TIP]
 > - 🐣 Still a novice but super excited to learn and discuss with everyone! feel free to share; I'm all ears! 😄✨
