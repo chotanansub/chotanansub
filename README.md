@@ -3,10 +3,11 @@
 #### 💬 AKA — `Chot` ${\color{orange}(}$ チョト, โชติ ${\color{orange})}$
 
 
-<div align="right" height="200" width="200"></div>
 
+<div align="right" height="200" width="200">
 <img a="sussy" align="right" height="250" alt="Chot's avatar" 
 src="img/chots-sussy-software.gif"/>
+</div>
 
 <!---
 <img a="sussy" align="right" height="150" width="120" alt="Chot's avatar" 
