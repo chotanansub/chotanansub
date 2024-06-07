@@ -1,10 +1,10 @@
+
+# 👋🏻 Hi there, I'm Chokun!
+#### 🏷️ or โชติ ᵀᴴᴬᴵ, Chot ᴱᴺᴳ
 <div align="right" height="200" width="200"></div>
 <img a="sussy" align="right" height="150" width="120" alt="Chot's avatar" 
 src="https://static.wikia.nocookie.net/among-us-wiki/images/4/43/Orange.png/revision/latest?cb=20211122214800"/>
 
-
-# 👋🏻 Hi there, I'm Chokun!
-🏷️ or โชติ ᵀᴴᴬᴵ, Chot ᴱᴺᴳ
 
 ---
 
