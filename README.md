@@ -21,7 +21,7 @@ src="https://static.wikia.nocookie.net/among-us-wiki/images/4/43/Orange.png/revi
 
 > [!TIP]
 > - 🐣 Still a novice but super excited to learn and discuss with everyone! feel free to share; I'm all ears! 😄✨
-> - 👉🏻 **Visit my Profile** : https://bento.me/chotanansub
+> - 👉🏻 **Visit my Profile** : https://bento.me/chot
 
 ---
 
