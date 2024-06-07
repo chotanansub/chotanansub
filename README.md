@@ -1,6 +1,8 @@
 
-# 👋🏻 Hi there, I'm `Chokun` (チョクン, โชกุน)
-#### 🏷️ AKA `Chot` (チョト, โชติ)
+# 👋🏻 Hi there, I'm `Chokun` ${\color{orange}(}$チョクン, โชกุน ${\color{orange})}$
+#### 💬 AKA — `Chot` ${\color{orange}(}$ チョト, โชติ ${\color{orange})}$
+
+
 <div align="right" height="200" width="200"></div>
 
 <img a="sussy" align="right" height="250" alt="Chot's avatar" 
