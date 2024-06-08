@@ -4,8 +4,9 @@
 
 <div style="display: flex; align-items: center; ">
     <img a="sussy" width="250" alt="Chot's avatar" src
+
 ="img/chots-sussy-software.gif"/>
-    <img a="sussy" width="200" alt="Chot's avatar" src="img/cpe-kmutt.gif"/>
+    <img a="sussy" width="200" alt="Chot's avatar" src="img/kmutt-cpe.gif"/>
 </div>
 <!---
 <img a="sussy" align="right" height="150" width="120" alt="Chot's avatar" 
