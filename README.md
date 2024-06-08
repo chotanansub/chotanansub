@@ -2,11 +2,10 @@
 # 👋🏻 Hi there, I'm `Chokun` ${\color{orange}(}$チョクン, โชกุน ${\color{orange})}$
 #### 💬 AKA — `Chot` ${\color{orange}(}$ チョト, โชติ ${\color{orange})}$
 
-
-<img a="sussy" align="right" height="250" alt="Chot's avatar" 
-src="img/chots-sussy-software.gif"/>
+<div style="display: flex; align-items: center;  margin-bottom: 50px;">
+    <img a="sussy" width="250" alt="Chot's avatar" src="img/chots-sussy-software.gif"/>
+    <img a="sussy" width="250" alt="Chot's avatar" src="img/cpe-kmutt.gif"/>
 </div>
-
 <!---
 <img a="sussy" align="right" height="150" width="120" alt="Chot's avatar" 
 src="https://static.wikia.nocookie.net/among-us-wiki/images/4/43/Orange.png/revision/latest?cb=20211122214800"/>
