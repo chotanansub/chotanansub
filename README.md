@@ -3,9 +3,9 @@
 #### 💬 AKA — `Chot` ${\color{orange}(}$ チョト, โชติ ${\color{orange})}$
 
 <div>
-    <img a="sussy" width="250" alt="Chot's avatar" src="img/chots-sussy-software.gif" "/>
+    <img a="sussy" width="250" alt="Chot's avatar" src="img/chotanansub-sus.gif" "/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img a="sussy" width="250" alt="Chot's avatar" src="img/kmutt-cpe.gif"/>
+    <img a="sussy" width="250" alt="Chot's avatar" src="img/cpe_kmutt.gif"/>
 </div>
 
 <!---
