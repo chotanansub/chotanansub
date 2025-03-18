@@ -19,12 +19,12 @@ src="https://static.wikia.nocookie.net/among-us-wiki/images/4/43/Orange.png/revi
 ---
 > [!NOTE]  
 > -  🧑🏻‍💻 Student at [KMUTT](https://www.kmutt.ac.th/en) 
-> -  🦉 Night owl 🐱 Cat person, 🎸 Hobbyist Musician, 🎤 MC, 🗿 Memer
+> -  🦉 Night owl 🐱 Cat reels enjoyer, 🎸 Hobbyist musician
 > -  🔎 Googling `📝 How to do academic research` 
 > -  📚 Reading   ` 🧠 Semantic Web Technology` / `🤖 Machine Learning`
 
 > [!TIP]
-> - 🐣 Still a novice but super excited to learn and discuss with everyone! feel free to share; I'm all ears! 😄✨
+> - 🐣 I'm still a novice, but I'm always happy to learn and engage with everyone! Feel free to share — I'm all ears!
 > - 👉🏻 **Visit my Profile** : https://bento.me/chot
 
 ---
