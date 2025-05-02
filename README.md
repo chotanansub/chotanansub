@@ -25,7 +25,9 @@ src="https://static.wikia.nocookie.net/among-us-wiki/images/4/43/Orange.png/revi
 
 > [!TIP]
 > - 🐣 I'm still a novice, but I'm always happy to learn and engage with everyone! Feel free to share — I'm all ears!
-> - 👉🏻 **Visit my Profile** : https://web.cs.kent.edu/~csophake/
+
+> - 🐼 **Profile** : [web.cs.kent.edu/~csophake](https://web.cs.kent.edu/~csophake/)
+> - 🏃🏻 **Kaggle** : [kaggle.com/chotanansubsophaken](https://www.kaggle.com/chotanansubsophaken)
 
 ---
 
