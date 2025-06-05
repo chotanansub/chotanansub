@@ -1,7 +1,8 @@
 
 # 👋🏻 Hi! `Chokun` is here!
 
-####  I'm `Chotanansub Sophaken`<br> ${\color{orange}(}$ Chokun / チョクン / โชกุน / 🐼 ${\color{orange})}$ 
+####  I'm `Chotanansub Sophaken`<br> 
+aka. Chokun / チョクン / โชกุน / 🐼 
 
 
 
