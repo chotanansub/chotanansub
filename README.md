@@ -8,8 +8,6 @@ aka. Chokun / チョクン / โชกุน / 🐼
 
 <div>
     <img a="sussy" width="250" alt="Chot's avatar" src="img/chotanansub-sus.gif" "/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img a="sussy" width="250" alt="Chot's avatar" src="img/cpe_kmutt.gif"/>
 </div>
 
 <!---
